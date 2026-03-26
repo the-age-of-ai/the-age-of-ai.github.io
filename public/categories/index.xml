@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AI Tools for Small Business</title>
-    <link>https://charlie-ai-tools.github.io/categories/</link>
+    <link>https://spok-rok-the-blok.github.io/categories/</link>
     <description>Recent content in Categories on AI Tools for Small Business</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://charlie-ai-tools.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spok-rok-the-blok.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Tools</title>
-      <link>https://charlie-ai-tools.github.io/categories/ai-tools/</link>
+      <link>https://spok-rok-the-blok.github.io/categories/ai-tools/</link>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://charlie-ai-tools.github.io/categories/ai-tools/</guid>
+      <guid>https://spok-rok-the-blok.github.io/categories/ai-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Small Business</title>
-      <link>https://charlie-ai-tools.github.io/categories/small-business/</link>
+      <link>https://spok-rok-the-blok.github.io/categories/small-business/</link>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://charlie-ai-tools.github.io/categories/small-business/</guid>
+      <guid>https://spok-rok-the-blok.github.io/categories/small-business/</guid>
       <description></description>
     </item>
   </channel>
