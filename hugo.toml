@@ -1,11 +1,11 @@
-baseURL = "https://spok-rok-the-blok.github.io/"
+baseURL = "https://the-age-of-ai.github.io/"
 languageCode = "en-us"
-title = "AI Tools for Small Business"
+title = "The Age of AI with Alan McCarthy"
 theme = "clean"
 
 [params]
-  author = "Spok HQ Research Team"
-  description = "Honest reviews and comparisons of AI tools for small business owners and solopreneurs."
+  author = "Alan McCarthy"
+  description = "Alan McCarthy writes about AI tools, solopreneur systems, and building a one-person business in the age of automation. He also authors AI guides so that he can support his writing."
 
 [markup]
   [markup.goldmark]

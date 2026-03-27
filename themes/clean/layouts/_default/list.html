@@ -4,7 +4,7 @@
     {{ range .Pages.ByDate.Reverse }}
     <article class="post-card">
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      <p class="meta">{{ .Date.Format "January 2, 2006" }}</p>
+      <p class="meta">{{ .Date.Format "January 2, 2006" }} · by {{ $.Site.Params.author }}</p>
       {{ with .Description }}<p>{{ . }}</p>{{ end }}
     </article>
     {{ end }}

@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class="hero">
-    <h1>AI Tools for Small Business</h1>
-    <p>Honest, practical reviews of AI software for solopreneurs and small teams.</p>
+    <h1>{{ .Site.Title }}</h1>
+    <p>{{ .Site.Params.description }}</p>
   </section>
   <section class="posts">
     <h2>Latest Reviews</h2>
@@ -9,7 +9,7 @@
       {{ range first 20 .Site.RegularPages.ByDate.Reverse }}
       <article class="post-card">
         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-        <p class="meta">{{ .Date.Format "January 2, 2006" }}</p>
+        <p class="meta">{{ .Date.Format "January 2, 2006" }} · by {{ $.Site.Params.author }}</p>
         {{ with .Description }}<p>{{ . }}</p>{{ end }}
       </article>
       {{ end }}

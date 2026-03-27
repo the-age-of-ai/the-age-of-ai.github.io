@@ -6,6 +6,10 @@
 set -e
 LOG="./generate.log"
 
+# Check product article queue
+echo "[$(date)] Checking product article queue..." | tee -a "$LOG"
+bash /home/charlie/.openclaw/workspace/blog/publish-queued.sh 2>&1 | tee -a "$LOG" || true
+
 echo "[$(date)] Building Hugo site..." | tee -a "$LOG"
 hugo --minify 2>&1 | tee -a "$LOG"
 
