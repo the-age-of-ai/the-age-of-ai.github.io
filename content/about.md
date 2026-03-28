@@ -3,6 +3,7 @@ title: "About Alan McCarthy"
 date: 2026-03-27
 draft: false
 description: "Alan McCarthy is an independent writer and researcher covering AI tools for solopreneurs and small business owners."
+weight: -1
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">

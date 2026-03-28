@@ -6,7 +6,18 @@
   <section class="posts">
     <h2>Latest Reviews</h2>
     <div class="post-list">
-      {{ range first 20 .Site.RegularPages.ByDate.Reverse }}
+      {{/* Pinned pages first (weight set), then rest by date */}}
+      {{ $pinned := where .Site.RegularPages "Params.weight" "ne" nil }}
+      {{ $rest := where .Site.RegularPages "Params.weight" "eq" nil }}
+      {{ range $pinned.ByWeight }}
+      <article class="post-card post-pinned">
+        <span class="pin-label">📌 Featured</span>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p class="meta">{{ .Date.Format "January 2, 2006" }} · by {{ $.Site.Params.author }}</p>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      </article>
+      {{ end }}
+      {{ range first 20 $rest.ByDate.Reverse }}
       <article class="post-card">
         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         <p class="meta">{{ .Date.Format "January 2, 2006" }} · by {{ $.Site.Params.author }}</p>
