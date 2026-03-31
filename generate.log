@@ -665,3 +665,68 @@ Total in 58 ms
 Total in 58 ms
 [Tue Mar 31 02:30:01 AM EDT 2026] Pushing to GitHub...
 [Tue Mar 31 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 71e0774] content: nightly build 2026-03-31
+ 27 files changed, 187 insertions(+), 31 deletions(-)
+ create mode 100644 content/posts/2026-03-31-ai-crm-smb-comparison.md
+ rename product-articles/{product-article-06-openclaw-quickstart-guide.md => 000-product-article-06-openclaw-quickstart-guide.md} (100%)
+ rename product-articles/{000-product-article-14-youtube-content-creator-toolkit.md => product-article-14-youtube-content-creator-toolkit.md} (100%)
+ create mode 100644 public/posts/2026-03-31-ai-crm-smb-comparison/index.html
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   730ffc8..71e0774  master -> master
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   730ffc8..71e0774  master -> master
+[Tue Mar 31 02:30:03 AM EDT 2026] Deploy complete.
+[Tue Mar 31 02:30:03 AM EDT 2026] Deploy complete.
+[Tue Mar 31 02:30:05 AM EDT 2026] Checking product article queue...
+[Tue Mar 31 02:30:05 AM EDT 2026] Checking product article queue...
+[Tue Mar 31 02:30:05 AM EDT 2026] === Checking product article queue ===
+[Tue Mar 31 02:30:05 AM EDT 2026] === Checking product article queue ===
+[Tue Mar 31 02:30:05 AM EDT 2026] === Checking product article queue ===
+[Tue Mar 31 02:30:05 AM EDT 2026] Publishing: product-article-29-pinterest-marketing-templates.md
+[Tue Mar 31 02:30:05 AM EDT 2026] Publishing: product-article-29-pinterest-marketing-templates.md
+[Tue Mar 31 02:30:05 AM EDT 2026] Publishing: product-article-29-pinterest-marketing-templates.md
+[Tue Mar 31 02:30:05 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-03-31-pinterest-marketing-templates.md
+[Tue Mar 31 02:30:05 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-03-31-pinterest-marketing-templates.md
+[Tue Mar 31 02:30:05 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-03-31-pinterest-marketing-templates.md
+State updated
+State updated
+[Tue Mar 31 02:30:05 AM EDT 2026] Queue: 27 articles remaining
+[Tue Mar 31 02:30:05 AM EDT 2026] Queue: 27 articles remaining
+[Tue Mar 31 02:30:05 AM EDT 2026] Queue: 27 articles remaining
+[Tue Mar 31 02:30:05 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-03-31-pinterest-marketing-templates.md
+[Tue Mar 31 02:30:05 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-03-31-pinterest-marketing-templates.md
+[Tue Mar 31 02:30:05 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-03-31-pinterest-marketing-templates.md
+[Tue Mar 31 02:30:05 AM EDT 2026] Building Hugo site...
+[Tue Mar 31 02:30:05 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+
+                    | EN  
+-------------------+-----
+                  | EN  
+-------------------+-----
+    Pages            | Pages            | 56  56  
+  
+  Paginator pages  | Paginator pages  |  0   0  
+  
+  Non-page files   |Non-page files   |  0   0  
+  
+   Static files     |Static files     |  2   2  
+  
+   Processed images |Processed images |  0   0  
+  
+   Aliases          Aliases          |  0|  0  
+  
+    Cleaned         Cleaned          |  |  0   0  
+
+
+
+Total in 32 ms
+Total in 32 ms
+[Tue Mar 31 02:30:05 AM EDT 2026] Pushing to GitHub...
+[Tue Mar 31 02:30:05 AM EDT 2026] Pushing to GitHub...
