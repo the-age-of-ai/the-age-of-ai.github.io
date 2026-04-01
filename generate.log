@@ -799,3 +799,46 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 60 ms
 [Wed Apr  1 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 2259318] content: nightly build 2026-04-01
+ 43 files changed, 441 insertions(+), 113 deletions(-)
+ create mode 100644 content/posts/2026-03-31-best-ai-tools-for-solopreneurs-2026.md
+ create mode 100644 content/posts/2026-04-01-systemeio-review-small-business.md
+ rename product-articles/{product-article-18-instagram-growth-templates.md => 000-product-article-18-instagram-growth-templates.md} (100%)
+ rename product-articles/{000-product-article-06-openclaw-quickstart-guide.md => product-article-06-openclaw-quickstart-guide.md} (100%)
+ create mode 100644 public/posts/2026-03-31-best-ai-tools-for-solopreneurs-2026/index.html
+ create mode 100644 public/posts/2026-04-01-systemeio-review-small-business/index.html
+ create mode 100644 public/tags/automation-tools/index.html
+ create mode 100644 public/tags/automation-tools/index.xml
+ create mode 100644 public/tags/automation/index.html
+ create mode 100644 public/tags/automation/index.xml
+ create mode 100644 public/tags/crm-solutions/index.html
+ create mode 100644 public/tags/crm-solutions/index.xml
+ create mode 100644 public/tags/online-marketing/index.html
+ create mode 100644 public/tags/online-marketing/index.xml
+ create mode 100644 public/tags/systeme-io-review/index.html
+ create mode 100644 public/tags/systeme-io-review/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   0302d90..2259318  master -> master
+[Wed Apr  1 02:30:03 AM EDT 2026] Deploy complete.
+[Wed Apr  1 02:30:05 AM EDT 2026] Checking product article queue...
+[Wed Apr  1 02:30:05 AM EDT 2026] === Checking product article queue ===
+[Wed Apr  1 02:30:05 AM EDT 2026] === Checking product article queue ===
+[Wed Apr  1 02:30:05 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Wed Apr  1 02:30:05 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Wed Apr  1 02:30:05 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 68  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  2  
+  Processed images |  0  
+  Aliases          |  0  
+  Cleaned          |  0  
+
+Total in 29 ms
+[Wed Apr  1 02:30:05 AM EDT 2026] Pushing to GitHub...
