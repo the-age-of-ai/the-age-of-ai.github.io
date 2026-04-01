@@ -1,24 +1,44 @@
 {
   "ranked": [
     {
-      "file": "product-article-06-openclaw-quickstart-guide.md",
+      "file": "product-article-18-instagram-growth-templates.md",
       "score": 2,
-      "matchedOn": "ai agent"
+      "matchedOn": "social"
     },
     {
-      "file": "000-product-article-14-youtube-content-creator-toolkit.md",
-      "score": 2,
-      "matchedOn": "youtube, video"
-    },
-    {
-      "file": "product-article-29-pinterest-marketing-templates.md",
+      "file": "product-article-25-linkedin-content-calendar.md",
       "score": 1,
-      "matchedOn": "visual"
+      "matchedOn": "social media"
+    },
+    {
+      "file": "product-article-22-solopreneur-productivity-system.md",
+      "score": 1,
+      "matchedOn": "system"
+    },
+    {
+      "file": "product-article-17-content-repurposing-playbook.md",
+      "score": 1,
+      "matchedOn": "social media"
     },
     {
       "file": "product-article-16-notion-templates-freelancers.md",
       "score": 1,
       "matchedOn": "template"
+    },
+    {
+      "file": "product-article-14-youtube-content-creator-toolkit.md",
+      "score": 1,
+      "matchedOn": "social media"
+    },
+    {
+      "file": "product-article-08-90-day-social-content-calendar.md",
+      "score": 1,
+      "matchedOn": "social media"
+    },
+    {
+      "file": "000-product-article-06-openclaw-quickstart-guide.md",
+      "score": 1,
+      "matchedOn": "ai agent"
     },
     {
       "file": "product-article-28-digital-product-launch-checklist.md",
@@ -36,22 +56,12 @@
       "matchedOn": ""
     },
     {
-      "file": "product-article-25-linkedin-content-calendar.md",
-      "score": 0,
-      "matchedOn": ""
-    },
-    {
       "file": "product-article-24-side-hustle-launch-checklist.md",
       "score": 0,
       "matchedOn": ""
     },
     {
       "file": "product-article-23-email-newsletter-templates.md",
-      "score": 0,
-      "matchedOn": ""
-    },
-    {
-      "file": "product-article-22-solopreneur-productivity-system.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -67,16 +77,6 @@
     },
     {
       "file": "product-article-19-seo-checklist-bloggers.md",
-      "score": 0,
-      "matchedOn": ""
-    },
-    {
-      "file": "product-article-18-instagram-growth-templates.md",
-      "score": 0,
-      "matchedOn": ""
-    },
-    {
-      "file": "product-article-17-content-repurposing-playbook.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -111,11 +111,6 @@
       "matchedOn": ""
     },
     {
-      "file": "product-article-08-90-day-social-content-calendar.md",
-      "score": 0,
-      "matchedOn": ""
-    },
-    {
       "file": "product-article-07-freelancer-rate-proposal-toolkit.md",
       "score": 0,
       "matchedOn": ""
@@ -141,7 +136,7 @@
       "matchedOn": ""
     }
   ],
-  "topMatch": "product-article-06-openclaw-quickstart-guide.md",
+  "topMatch": "product-article-18-instagram-growth-templates.md",
   "topMatchScore": 2,
-  "topMatchKeywords": "ai agent"
+  "topMatchKeywords": "social"
 }

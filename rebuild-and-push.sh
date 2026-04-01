@@ -7,15 +7,15 @@ set -e
 LOG="./generate.log"
 
 # Check product article queue
-echo "[$(date)] Checking product article queue..." | tee -a "$LOG"
-bash /home/charlie/.openclaw/workspace/blog/publish-queued.sh 2>&1 | tee -a "$LOG" || true
+echo "[$(date)] Checking product article queue..." >> "$LOG"
+bash /home/charlie/.openclaw/workspace/blog/publish-queued.sh >> "$LOG" 2>&1 || true
 
-echo "[$(date)] Building Hugo site..." | tee -a "$LOG"
-hugo --minify 2>&1 | tee -a "$LOG"
+echo "[$(date)] Building Hugo site..." >> "$LOG"
+hugo --minify >> "$LOG" 2>&1
 
-echo "[$(date)] Pushing to GitHub..." | tee -a "$LOG"
+echo "[$(date)] Pushing to GitHub..." >> "$LOG"
 git add -A
-git commit -m "content: nightly build $(date +%Y-%m-%d)" || echo "[$(date)] Nothing to commit" | tee -a "$LOG"
-git push origin master 2>&1 | tee -a "$LOG"
+git commit -m "content: nightly build $(date +%Y-%m-%d)" >> "$LOG" 2>&1 || echo "[$(date)] Nothing to commit" >> "$LOG"
+git push origin master >> "$LOG" 2>&1
 
-echo "[$(date)] Deploy complete." | tee -a "$LOG"
+echo "[$(date)] Deploy complete." >> "$LOG"
