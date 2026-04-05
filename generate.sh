@@ -171,6 +171,7 @@ DATE=$(date +%Y-%m-%d)
 FILENAME="${CONTENT_DIR}/${DATE}-${SLUG}.md"
 
 # Affiliate links
+LINKTREE_URL="https://linktr.ee/theageofai"
 SYSTEME_URL="https://systeme.io/?sa=sa0267131685129e77387d3fa97cf89da7b07af0d7"
 FRASE_URL=""
 SEMRUSH_URL=""
@@ -188,7 +189,7 @@ case "$KEYWORD" in
   *project*|*manage*) AFFILIATE="Notion" ; AFFILIATE_URL="$SYSTEME_URL" ;;
   *writing*|*content*|*copy*) AFFILIATE="Writesonic" ; AFFILIATE_URL="$FRASE_URL" ;;
   *landing*|*site*|*builder*) AFFILIATE="10Web" ; AFFILIATE_URL="$SYSTEME_URL" ;;
-  *) AFFILIATE="Systeme.io" ; AFFILIATE_URL="$SYSTEME_URL" ;;
+  *) AFFILIATE="Systeme.io" ; AFFILIATE_URL="$LINKTREE_URL" ;;
 esac
 
 # Strip surrounding quotes from title

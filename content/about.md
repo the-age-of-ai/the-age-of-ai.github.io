@@ -25,7 +25,7 @@ The focus here is narrow by design: **AI tools for people running a business alo
 
 ## The Guides
 
-Alongside the reviews, I write practical guides — prompt packs, templates, playbooks — things I actually use to run my own work. They live at my [Gumroad store](https://theageofai.gumroad.com). If you find the reviews useful, the guides go deeper.
+Alongside the reviews, I write practical guides — prompt packs, templates, playbooks — things I actually use to run my own work. They live at my [store](https://linktr.ee/theageofai). If you find the reviews useful, the guides go deeper.
 
 ## Background
 
@@ -35,4 +35,4 @@ Based in the northeastern United States.
 
 ---
 
-*Have a question, a tool you think I should review, or just want to say something? You can reach me through the [Gumroad store](https://theageofai.gumroad.com).*
+*Have a question, a tool you think I should review, or just want to say something? You can reach me through the [store](https://linktr.ee/theageofai).*

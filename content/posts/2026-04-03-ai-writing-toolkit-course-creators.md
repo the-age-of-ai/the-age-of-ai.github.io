@@ -5,7 +5,7 @@ draft: false
 description: "Struggling to create online course content? Learn how AI tools can help you write faster and better with practical tips."
 categories: ["AI Tools", "Digital Products"]
 tags: ["solopreneur", "AI writing", "online courses", "productivity", "course creation"]
-product_url: "https://theageofai.gumroad.com"
+product_url: "https://linktr.ee/theageofai"
 ---
 
 # How to Write Online Course Content Faster with AI Tools
@@ -64,4 +64,4 @@ Using AI isn’t about cutting corners—it’s about working smarter. You’re 
 If you’re ready to take this to the next level, I’ve put together something to help. My AI Writing Toolkit for Course Creators is packed with prompts, templates, and workflows specifically designed for building online courses. It’s everything I’ve learned about using AI to create content that sells—without losing your personal touch.
 
 ---
-*Ready to put this into practice? Get the AI Writing Toolkit for Course Creators at https://theageofai.gumroad.com*
+*Ready to put this into practice? Get the AI Writing Toolkit for Course Creators at https://linktr.ee/theageofai*

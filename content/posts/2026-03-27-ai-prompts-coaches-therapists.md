@@ -5,7 +5,7 @@ draft: false
 description: "Struggling to create client resources as a coach or therapist? Learn how AI can help you build better materials faster."
 categories: ["AI Tools", "Digital Products"]
 tags: ["coaching", "therapy", "AI prompts", "client resources", "productivity"]
-product_url: "https://theageofai.gumroad.com"
+product_url: "https://linktr.ee/theageofai"
 ---
 
 # How to Create Better Client Resources with AI for Coaches and Therapists
@@ -56,4 +56,4 @@ Don’t stop at one exercise. Use AI to brainstorm a series of resources in one 
 If you’re seeing the potential here but want to skip the trial-and-error of crafting prompts, I’ve got something for you. I’ve put together a collection of ready-to-use AI prompts specifically for coaches and therapists. These are tested, detailed, and designed to help you create everything from client exercises to session plans and even marketing content. They’ll save you hours and ensure you’re getting the most out of AI.
 
 ---
-*Ready to put this into practice? Get the AI Prompts for Coaches & Therapists at https://theageofai.gumroad.com*
+*Ready to put this into practice? Get the AI Prompts for Coaches & Therapists at https://linktr.ee/theageofai*

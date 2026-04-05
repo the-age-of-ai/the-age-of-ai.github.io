@@ -5,7 +5,7 @@ draft: false
 description: "Struggling to drive traffic from Pinterest? Learn actionable tips to save time and boost clicks with proven strategies and templates."
 categories: ["AI Tools", "Digital Products"]
 tags: ["pinterest marketing", "solopreneur", "traffic strategies", "digital templates", "small business"]
-product_url: "https://theageofai.gumroad.com"
+product_url: "https://linktr.ee/theageofai"
 ---
 
 If you’re a solopreneur or small business owner, you’ve probably heard that Pinterest can drive serious traffic to your website. But let’s be real: creating pins, figuring out what works, and staying consistent feels like a full-time job you didn’t sign up for. You’re already juggling a million tasks—spending hours designing graphics or researching keywords isn’t in the cards. So how do you make Pinterest work for you without it eating up your week?
@@ -44,4 +44,4 @@ These templates are based on what’s worked for me and countless others. They�
 
 ---
 
-*Ready to put this into practice? Get the Pinterest Marketing Templates at https://theageofai.gumroad.com*
+*Ready to put this into practice? Get the Pinterest Marketing Templates at https://linktr.ee/theageofai*

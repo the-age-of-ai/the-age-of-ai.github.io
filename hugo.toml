@@ -6,7 +6,7 @@ theme = "clean"
 [params]
   author = "Alan McCarthy"
   description = "Alan McCarthy writes about AI tools, solopreneur systems, and building a one-person business in the age of automation. He also authors AI guides so that he can support his writing."
-  storeUrl = "https://theageofai.gumroad.com"
+  storeUrl = "https://linktr.ee/theageofai"
 
 [markup]
   [markup.goldmark]
