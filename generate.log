@@ -1744,3 +1744,51 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 191 ms
 [Mon Apr  6 08:39:43 AM EDT 2026] Pushing to GitHub...
+[master 7b45155] content: nightly build 2026-04-06
+ 1 file changed, 40 insertions(+)
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   3e040b2..7b45155  master -> master
+[Mon Apr  6 08:39:44 AM EDT 2026] Deploy complete.
+[2026-04-06T12:40:47.646Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-04-06T12:40:47.646Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-04-06T12:40:54.695Z] [medium] 
+[1/1] Processing...
+[2026-04-06T12:40:54.695Z] [medium] 
+[1/1] Processing...
+[2026-04-06T12:40:54.697Z] [medium] Importing: https://the-age-of-ai.github.io/posts/2026-04-06-ai-automation-blueprint/
+[2026-04-06T12:40:54.697Z] [medium] Importing: https://the-age-of-ai.github.io/posts/2026-04-06-ai-automation-blueprint/
+[2026-04-06T12:40:54.698Z] [medium] Navigating to medium.com/p/import ...
+[2026-04-06T12:40:54.698Z] [medium] Navigating to medium.com/p/import ...
+[2026-04-06T12:40:58.831Z] [medium] Entering article URL...
+[2026-04-06T12:40:58.831Z] [medium] Entering article URL...
+[2026-04-06T12:41:13.843Z] [medium] ERROR: Could not find URL input: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator('input[type="url"], input[placeholder*="http"], input[name*="url"], input[placeholder*="URL"], input[placeholder*="link"]') to be visible
+
+[2026-04-06T12:41:13.843Z] [medium] ERROR: Could not find URL input: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator('input[type="url"], input[placeholder*="http"], input[name*="url"], input[placeholder*="URL"], input[placeholder*="link"]') to be visible
+
+[2026-04-06T12:41:14.027Z] [medium] Debug screenshot saved.
+[2026-04-06T12:41:14.027Z] [medium] Debug screenshot saved.
+[2026-04-06T12:41:14.044Z] [medium] Cookies refreshed and saved.
+[2026-04-06T12:41:14.044Z] [medium] Cookies refreshed and saved.
+[2026-04-06T12:41:14.044Z] [medium] 
+Done. 0 published, 1 failed.
+[2026-04-06T12:41:14.044Z] [medium] 
+Done. 0 published, 1 failed.
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 95  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  2  
+  Processed images |  0  
+  Aliases          |  0  
+  Cleaned          |  0  
+
+Total in 313 ms

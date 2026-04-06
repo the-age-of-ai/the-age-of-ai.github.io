@@ -1,44 +1,49 @@
 {
   "ranked": [
     {
-      "file": "product-article-18-instagram-growth-templates.md",
+      "file": "product-article-14-youtube-content-creator-toolkit.md",
       "score": 2,
-      "matchedOn": "social"
+      "matchedOn": "video, creator"
+    },
+    {
+      "file": "product-article-27-freelancer-pricing-strategy-guide.md",
+      "score": 1,
+      "matchedOn": "client"
+    },
+    {
+      "file": "product-article-21-client-onboarding-kit.md",
+      "score": 1,
+      "matchedOn": "client"
+    },
+    {
+      "file": "product-article-19-seo-checklist-bloggers.md",
+      "score": 1,
+      "matchedOn": "search engine"
+    },
+    {
+      "file": "product-article-16-notion-templates-freelancers.md",
+      "score": 1,
+      "matchedOn": "client"
+    },
+    {
+      "file": "product-article-09-chatgpt-customer-service-templates.md",
+      "score": 1,
+      "matchedOn": "gpt"
+    },
+    {
+      "file": "product-article-07-freelancer-rate-proposal-toolkit.md",
+      "score": 1,
+      "matchedOn": "client"
     },
     {
       "file": "product-article-06-openclaw-quickstart-guide.md",
-      "score": 2,
+      "score": 1,
       "matchedOn": "ai agent"
     },
     {
-      "file": "product-article-25-linkedin-content-calendar.md",
+      "file": "product-article-01-chatgpt-prompts-small-business.md",
       "score": 1,
-      "matchedOn": "social media"
-    },
-    {
-      "file": "product-article-22-solopreneur-productivity-system.md",
-      "score": 1,
-      "matchedOn": "workflow"
-    },
-    {
-      "file": "product-article-17-content-repurposing-playbook.md",
-      "score": 1,
-      "matchedOn": "social media"
-    },
-    {
-      "file": "product-article-14-youtube-content-creator-toolkit.md",
-      "score": 1,
-      "matchedOn": "social media"
-    },
-    {
-      "file": "product-article-08-90-day-social-content-calendar.md",
-      "score": 1,
-      "matchedOn": "social media"
-    },
-    {
-      "file": "000-product-article-09-chatgpt-customer-service-templates.md",
-      "score": 1,
-      "matchedOn": "support"
+      "matchedOn": "gpt"
     },
     {
       "file": "product-article-28-digital-product-launch-checklist.md",
@@ -46,12 +51,12 @@
       "matchedOn": ""
     },
     {
-      "file": "product-article-27-freelancer-pricing-strategy-guide.md",
+      "file": "product-article-26-podcast-launch-kit.md",
       "score": 0,
       "matchedOn": ""
     },
     {
-      "file": "product-article-26-podcast-launch-kit.md",
+      "file": "product-article-25-linkedin-content-calendar.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -66,17 +71,12 @@
       "matchedOn": ""
     },
     {
-      "file": "product-article-21-client-onboarding-kit.md",
+      "file": "product-article-22-solopreneur-productivity-system.md",
       "score": 0,
       "matchedOn": ""
     },
     {
-      "file": "product-article-19-seo-checklist-bloggers.md",
-      "score": 0,
-      "matchedOn": ""
-    },
-    {
-      "file": "product-article-16-notion-templates-freelancers.md",
+      "file": "product-article-17-content-repurposing-playbook.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -106,12 +106,7 @@
       "matchedOn": ""
     },
     {
-      "file": "product-article-07-freelancer-rate-proposal-toolkit.md",
-      "score": 0,
-      "matchedOn": ""
-    },
-    {
-      "file": "product-article-05-ai-automation-blueprint.md",
+      "file": "product-article-08-90-day-social-content-calendar.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -126,12 +121,12 @@
       "matchedOn": ""
     },
     {
-      "file": "product-article-01-chatgpt-prompts-small-business.md",
+      "file": "000-product-article-18-instagram-growth-templates.md",
       "score": 0,
       "matchedOn": ""
     }
   ],
-  "topMatch": "product-article-18-instagram-growth-templates.md",
+  "topMatch": "product-article-14-youtube-content-creator-toolkit.md",
   "topMatchScore": 2,
-  "topMatchKeywords": "social"
+  "topMatchKeywords": "video, creator"
 }
