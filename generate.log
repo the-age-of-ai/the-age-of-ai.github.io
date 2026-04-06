@@ -1704,3 +1704,43 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 161 ms
 [Mon Apr  6 08:39:16 AM EDT 2026] Pushing to GitHub...
+[master 3e040b2] content: nightly build 2026-04-06
+ 43 files changed, 271 insertions(+), 67 deletions(-)
+ create mode 100644 content/posts/2026-04-06-ai-automation-blueprint.md
+ create mode 100644 content/posts/2026-04-06-getresponse-ai-review-2026.md
+ rename product-articles/{product-article-18-instagram-growth-templates.md => 000-product-article-18-instagram-growth-templates.md} (100%)
+ rename product-articles/{000-product-article-09-chatgpt-customer-service-templates.md => product-article-09-chatgpt-customer-service-templates.md} (100%)
+ rename product-articles/{ => published}/product-article-05-ai-automation-blueprint.md (99%)
+ create mode 100644 public/posts/2026-04-06-ai-automation-blueprint/index.html
+ create mode 100644 public/posts/2026-04-06-getresponse-ai-review-2026/index.html
+ create mode 100644 public/tags/crm-software/index.html
+ create mode 100644 public/tags/crm-software/index.xml
+ create mode 100644 public/tags/marketing-automation/index.html
+ create mode 100644 public/tags/marketing-automation/index.xml
+ create mode 100644 public/tags/time-management/index.html
+ create mode 100644 public/tags/time-management/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   aed31fb..3e040b2  master -> master
+[Mon Apr  6 08:39:18 AM EDT 2026] Deploy complete.
+[Mon Apr  6 08:39:43 AM EDT 2026] Checking product article queue...
+[Mon Apr  6 08:39:43 AM EDT 2026] === Checking product article queue ===
+[Mon Apr  6 08:39:43 AM EDT 2026] === Checking product article queue ===
+[Mon Apr  6 08:39:43 AM EDT 2026] Published recently (0 days ago). Skipping.
+[Mon Apr  6 08:39:43 AM EDT 2026] Published recently (0 days ago). Skipping.
+[Mon Apr  6 08:39:43 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 95  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  2  
+  Processed images |  0  
+  Aliases          |  0  
+  Cleaned          |  0  
+
+Total in 191 ms
+[Mon Apr  6 08:39:43 AM EDT 2026] Pushing to GitHub...
