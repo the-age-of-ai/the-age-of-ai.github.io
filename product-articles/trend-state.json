@@ -1,29 +1,14 @@
 {
   "ranked": [
     {
-      "file": "product-article-09-chatgpt-customer-service-templates.md",
-      "score": 6,
-      "matchedOn": "chatgpt, gpt, prompt, prompts"
-    },
-    {
-      "file": "product-article-01-chatgpt-prompts-small-business.md",
-      "score": 6,
-      "matchedOn": "chatgpt, gpt, prompt, prompts"
-    },
-    {
-      "file": "product-article-10-solopreneur-legal-starter-pack.md",
-      "score": 2,
-      "matchedOn": "nda"
-    },
-    {
-      "file": "000-product-article-18-instagram-growth-templates.md",
+      "file": "product-article-18-instagram-growth-templates.md",
       "score": 2,
       "matchedOn": "social"
     },
     {
-      "file": "product-article-27-freelancer-pricing-strategy-guide.md",
-      "score": 1,
-      "matchedOn": "rate"
+      "file": "product-article-06-openclaw-quickstart-guide.md",
+      "score": 2,
+      "matchedOn": "ai agent"
     },
     {
       "file": "product-article-25-linkedin-content-calendar.md",
@@ -31,19 +16,14 @@
       "matchedOn": "social media"
     },
     {
-      "file": "product-article-19-seo-checklist-bloggers.md",
+      "file": "product-article-22-solopreneur-productivity-system.md",
       "score": 1,
-      "matchedOn": "google"
+      "matchedOn": "workflow"
     },
     {
       "file": "product-article-17-content-repurposing-playbook.md",
       "score": 1,
       "matchedOn": "social media"
-    },
-    {
-      "file": "product-article-16-notion-templates-freelancers.md",
-      "score": 1,
-      "matchedOn": "rate"
     },
     {
       "file": "product-article-14-youtube-content-creator-toolkit.md",
@@ -56,17 +36,17 @@
       "matchedOn": "social media"
     },
     {
-      "file": "product-article-07-freelancer-rate-proposal-toolkit.md",
+      "file": "000-product-article-09-chatgpt-customer-service-templates.md",
       "score": 1,
-      "matchedOn": "rate"
-    },
-    {
-      "file": "product-article-06-openclaw-quickstart-guide.md",
-      "score": 1,
-      "matchedOn": "ai agent"
+      "matchedOn": "support"
     },
     {
       "file": "product-article-28-digital-product-launch-checklist.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
+      "file": "product-article-27-freelancer-pricing-strategy-guide.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -86,12 +66,17 @@
       "matchedOn": ""
     },
     {
-      "file": "product-article-22-solopreneur-productivity-system.md",
+      "file": "product-article-21-client-onboarding-kit.md",
       "score": 0,
       "matchedOn": ""
     },
     {
-      "file": "product-article-21-client-onboarding-kit.md",
+      "file": "product-article-19-seo-checklist-bloggers.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
+      "file": "product-article-16-notion-templates-freelancers.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -116,6 +101,16 @@
       "matchedOn": ""
     },
     {
+      "file": "product-article-10-solopreneur-legal-starter-pack.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
+      "file": "product-article-07-freelancer-rate-proposal-toolkit.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
       "file": "product-article-05-ai-automation-blueprint.md",
       "score": 0,
       "matchedOn": ""
@@ -129,9 +124,14 @@
       "file": "product-article-02-email-templates-ai-business.md",
       "score": 0,
       "matchedOn": ""
+    },
+    {
+      "file": "product-article-01-chatgpt-prompts-small-business.md",
+      "score": 0,
+      "matchedOn": ""
     }
   ],
-  "topMatch": "product-article-09-chatgpt-customer-service-templates.md",
-  "topMatchScore": 6,
-  "topMatchKeywords": "chatgpt, gpt, prompt, prompts"
+  "topMatch": "product-article-18-instagram-growth-templates.md",
+  "topMatchScore": 2,
+  "topMatchKeywords": "social"
 }

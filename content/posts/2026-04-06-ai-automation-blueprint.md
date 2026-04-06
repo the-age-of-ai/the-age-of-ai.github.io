@@ -1,6 +1,6 @@
 ---
 title: "How to Automate Repetitive Tasks as a Solopreneur with AI"
-date: 2026-03-26
+date: 2026-04-06
 draft: false
 description: "Learn how solopreneurs can use AI to automate repetitive tasks, save time, and boost productivity with practical steps and tools."
 categories: ["AI Tools", "Digital Products"]

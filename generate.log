@@ -1652,3 +1652,55 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 170 ms
 [Sat Apr  4 11:33:21 PM EDT 2026] Pushing to GitHub...
+[master aed31fb] content: nightly build 2026-04-04
+ 27 files changed, 127 insertions(+), 22 deletions(-)
+ create mode 100644 content/posts/2026-04-04-hubspot-ai-features-small-business.md
+ create mode 100644 public/posts/2026-04-04-hubspot-ai-features-small-business/index.html
+ create mode 100644 public/tags/marketing-tips/index.html
+ create mode 100644 public/tags/marketing-tips/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   95d69a5..aed31fb  master -> master
+[Sat Apr  4 11:33:22 PM EDT 2026] Deploy complete.
+[Mon Apr  6 08:24:50 AM EDT 2026] === Starting generation run ===
+[Mon Apr  6 08:24:50 AM EDT 2026] Keyword: GetResponse AI review 2026
+[Mon Apr  6 08:24:50 AM EDT 2026] Generating title...
+[Mon Apr  6 08:25:29 AM EDT 2026] Title: GetResponse AI for Small Business in 2026
+[Mon Apr  6 08:25:29 AM EDT 2026] Generating meta description...
+[Mon Apr  6 08:25:55 AM EDT 2026] Meta: Discover how GetResponse AI can boost your small business efficiency in 2026, and learn why it's a game-changer for entrepreneurs. Find the right fit.
+[Mon Apr  6 08:25:55 AM EDT 2026] Generating article body...
+[Mon Apr  6 08:32:31 AM EDT 2026] Generating tags...
+[Mon Apr  6 08:32:44 AM EDT 2026] Saved: ./content/posts/2026-04-06-getresponse-ai-review-2026.md
+[Mon Apr  6 08:32:44 AM EDT 2026] === Run complete ===
+[Mon Apr  6 08:39:15 AM EDT 2026] Checking product article queue...
+[Mon Apr  6 08:39:15 AM EDT 2026] === Checking product article queue ===
+[Mon Apr  6 08:39:15 AM EDT 2026] === Checking product article queue ===
+[Mon Apr  6 08:39:16 AM EDT 2026] Publishing: product-article-05-ai-automation-blueprint.md
+[Mon Apr  6 08:39:16 AM EDT 2026] Publishing: product-article-05-ai-automation-blueprint.md
+[Mon Apr  6 08:39:16 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-06-ai-automation-blueprint.md
+[Mon Apr  6 08:39:16 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-06-ai-automation-blueprint.md
+State updated
+[Mon Apr  6 08:39:16 AM EDT 2026] Queue: 25 articles remaining
+[Mon Apr  6 08:39:16 AM EDT 2026] Queue: 25 articles remaining
+[Mon Apr  6 08:39:16 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-06-ai-automation-blueprint.md
+[Mon Apr  6 08:39:16 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-06-ai-automation-blueprint.md
+[Mon Apr  6 08:39:16 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-04-06-ai-automation-blueprint/
+[Mon Apr  6 08:39:16 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-04-06-ai-automation-blueprint/
+[Mon Apr  6 08:39:16 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Mon Apr  6 08:39:16 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Mon Apr  6 08:39:16 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 95  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  2  
+  Processed images |  0  
+  Aliases          |  0  
+  Cleaned          |  0  
+
+Total in 161 ms
+[Mon Apr  6 08:39:16 AM EDT 2026] Pushing to GitHub...
