@@ -1,6 +1,6 @@
 ---
 title: "Best AI Tools for Solopreneurs to Save Time in 2026"
-date: 2026-03-26
+date: 2026-04-08
 draft: false
 description: "Discover the best AI tools for solopreneurs in 2026 to save time, boost productivity, and streamline your business."
 categories: ["AI Tools", "Digital Products"]
