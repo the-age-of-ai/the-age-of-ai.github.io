@@ -1886,3 +1886,105 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 237 ms
 [Wed Apr  8 02:30:02 AM EDT 2026] Pushing to GitHub...
+[master a3694e8] content: nightly build 2026-04-08
+ 42 files changed, 379 insertions(+), 65 deletions(-)
+ create mode 100644 content/posts/2026-04-08-ai-tools-cheat-sheet-2026.md
+ create mode 100644 content/posts/2026-04-08-writesonic-vs-jasper-small-business.md
+ create mode 100755 medium-convert.sh
+ rename product-articles/{product-article-19-seo-checklist-bloggers.md => 000-product-article-19-seo-checklist-bloggers.md} (100%)
+ rename product-articles/{000-product-article-14-youtube-content-creator-toolkit.md => product-article-14-youtube-content-creator-toolkit.md} (100%)
+ rename product-articles/{ => published}/product-article-03-ai-tools-cheat-sheet-2026.md (98%)
+ create mode 100644 public/posts/2026-04-08-ai-tools-cheat-sheet-2026/index.html
+ create mode 100644 public/posts/2026-04-08-writesonic-vs-jasper-small-business/index.html
+ create mode 100644 public/tags/marketing/index.html
+ create mode 100644 public/tags/marketing/index.xml
+ create mode 100644 public/tags/time-saving/index.html
+ create mode 100644 public/tags/time-saving/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   9bf1cd8..a3694e8  master -> master
+[Wed Apr  8 02:30:04 AM EDT 2026] Deploy complete.
+[2026-04-08T06:31:33.121Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-04-08T06:31:33.121Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-04-08T06:31:33.361Z] [medium] FATAL: browserType.launch: Failed to launch the browser process.
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+Call log:
+  - <launching> /home/charlie/.cache/ms-playwright/firefox-1511/firefox/firefox -no-remote -wait-for-browser -foreground -profile /tmp/playwright_firefoxdev_profile-rrZ7uN -juggler-pipe -silent
+  - <launched> pid=674444
+  - [pid=674444][err] [674446] Sandbox: CanCreateUserNamespace() unshare(CLONE_NEWPID): EPERM
+  - [pid=674444][err] Error: no DISPLAY environment variable specified
+  - [pid=674444] <process did exit: exitCode=1, signal=null>
+  - [pid=674444] starting temporary directories cleanup
+  - [pid=674444] <gracefully close start>
+  - [pid=674444] <kill>
+  - [pid=674444] <skipped force kill spawnedProcess.killed=false processClosed=true>
+  - [pid=674444] finished temporary directories cleanup
+  - [pid=674444] <gracefully close end>
+
+[2026-04-08T06:31:33.361Z] [medium] FATAL: browserType.launch: Failed to launch the browser process.
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+Call log:
+  - <launching> /home/charlie/.cache/ms-playwright/firefox-1511/firefox/firefox -no-remote -wait-for-browser -foreground -profile /tmp/playwright_firefoxdev_profile-rrZ7uN -juggler-pipe -silent
+  - <launched> pid=674444
+  - [pid=674444][err] [674446] Sandbox: CanCreateUserNamespace() unshare(CLONE_NEWPID): EPERM
+  - [pid=674444][err] Error: no DISPLAY environment variable specified
+  - [pid=674444] <process did exit: exitCode=1, signal=null>
+  - [pid=674444] starting temporary directories cleanup
+  - [pid=674444] <gracefully close start>
+  - [pid=674444] <kill>
+  - [pid=674444] <skipped force kill spawnedProcess.killed=false processClosed=true>
+  - [pid=674444] finished temporary directories cleanup
+  - [pid=674444] <gracefully close end>
+
+[Thu Apr  9 08:47:43 AM EDT 2026] === Starting generation run ===
+[Thu Apr  9 08:47:43 AM EDT 2026] Keyword: AI email automation for non-tech owners
+[Thu Apr  9 08:47:43 AM EDT 2026] Generating title...
+[Thu Apr  9 08:47:58 AM EDT 2026] Title: AI Email Automation for Non Tech Small Business Owners 2026
+[Thu Apr  9 08:47:58 AM EDT 2026] Generating meta description...
+[Thu Apr  9 08:48:07 AM EDT 2026] Meta: "Unlock streamlined communication and boost productivity without coding: discover how AI email automation can revolutionize your small business operations.
+[Thu Apr  9 08:48:07 AM EDT 2026] Generating article body...
+[Thu Apr  9 08:49:56 AM EDT 2026] === Starting generation run ===
+[Thu Apr  9 08:49:56 AM EDT 2026] Keyword: AI email automation for non-tech owners
+[Thu Apr  9 08:49:56 AM EDT 2026] Generating title...
+[Thu Apr  9 08:51:53 AM EDT 2026] Generating tags...
+[Thu Apr  9 08:52:03 AM EDT 2026] Title: AI Email Automation Tools for Non Tech Owners to Boost Small Business Efficiency in 2026
+[Thu Apr  9 08:52:03 AM EDT 2026] Generating meta description...
+[Thu Apr  9 08:52:09 AM EDT 2026] Saved: ./content/posts/2026-04-09-ai-email-automation-for-nontech-owners.md
+[Thu Apr  9 08:52:09 AM EDT 2026] === Run complete ===
+[Thu Apr  9 08:52:21 AM EDT 2026] Meta: Boost your small business efficiency in 2026 with AI email automation tools designed specifically for non-tech owners, streamlining daily tasks and freeing
+[Thu Apr  9 08:52:21 AM EDT 2026] Generating article body...
+[Thu Apr  9 08:55:40 AM EDT 2026] Checking product article queue...
+[Thu Apr  9 08:55:40 AM EDT 2026] === Checking product article queue ===
+[Thu Apr  9 08:55:40 AM EDT 2026] === Checking product article queue ===
+[Thu Apr  9 08:55:40 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Thu Apr  9 08:55:40 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Thu Apr  9 08:55:40 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 105  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 122 ms
+[Thu Apr  9 08:55:40 AM EDT 2026] Pushing to GitHub...
