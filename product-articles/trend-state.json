@@ -1,11 +1,6 @@
 {
   "ranked": [
     {
-      "file": "000-product-article-19-seo-checklist-bloggers.md",
-      "score": 3,
-      "matchedOn": "seo, search engine, blog"
-    },
-    {
       "file": "product-article-25-linkedin-content-calendar.md",
       "score": 2,
       "matchedOn": "content"
@@ -26,9 +21,9 @@
       "matchedOn": "content"
     },
     {
-      "file": "product-article-27-freelancer-pricing-strategy-guide.md",
-      "score": 1,
-      "matchedOn": "client"
+      "file": "000-product-article-19-seo-checklist-bloggers.md",
+      "score": 2,
+      "matchedOn": "seo, blog"
     },
     {
       "file": "product-article-22-solopreneur-productivity-system.md",
@@ -36,22 +31,17 @@
       "matchedOn": "system"
     },
     {
-      "file": "product-article-21-client-onboarding-kit.md",
+      "file": "product-article-10-solopreneur-legal-starter-pack.md",
       "score": 1,
-      "matchedOn": "client"
-    },
-    {
-      "file": "product-article-16-notion-templates-freelancers.md",
-      "score": 1,
-      "matchedOn": "client"
-    },
-    {
-      "file": "product-article-07-freelancer-rate-proposal-toolkit.md",
-      "score": 1,
-      "matchedOn": "client"
+      "matchedOn": "nda"
     },
     {
       "file": "product-article-28-digital-product-launch-checklist.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
+      "file": "product-article-27-freelancer-pricing-strategy-guide.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -71,7 +61,17 @@
       "matchedOn": ""
     },
     {
+      "file": "product-article-21-client-onboarding-kit.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
       "file": "product-article-18-instagram-growth-templates.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
+      "file": "product-article-16-notion-templates-freelancers.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -96,12 +96,12 @@
       "matchedOn": ""
     },
     {
-      "file": "product-article-10-solopreneur-legal-starter-pack.md",
+      "file": "product-article-09-chatgpt-customer-service-templates.md",
       "score": 0,
       "matchedOn": ""
     },
     {
-      "file": "product-article-09-chatgpt-customer-service-templates.md",
+      "file": "product-article-07-freelancer-rate-proposal-toolkit.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -121,7 +121,7 @@
       "matchedOn": ""
     }
   ],
-  "topMatch": "000-product-article-19-seo-checklist-bloggers.md",
-  "topMatchScore": 3,
-  "topMatchKeywords": "seo, search engine, blog"
+  "topMatch": "product-article-25-linkedin-content-calendar.md",
+  "topMatchScore": 2,
+  "topMatchKeywords": "content"
 }
