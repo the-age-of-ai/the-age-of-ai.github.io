@@ -1,6 +1,6 @@
 ---
 title: "How to Create YouTube Content Faster with AI Tools for Solopreneurs"
-date: 2026-03-26
+date: 2026-04-11
 draft: false
 description: "Struggling to create YouTube content fast? Learn AI tools and strategies for solopreneurs to save time and boost quality."
 categories: ["AI Tools", "Digital Products"]

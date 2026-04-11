@@ -1,9 +1,9 @@
 {
   "ranked": [
     {
-      "file": "product-article-25-linkedin-content-calendar.md",
+      "file": "product-article-19-seo-checklist-bloggers.md",
       "score": 2,
-      "matchedOn": "content"
+      "matchedOn": "seo, blog"
     },
     {
       "file": "product-article-17-content-repurposing-playbook.md",
@@ -21,9 +21,9 @@
       "matchedOn": "content"
     },
     {
-      "file": "000-product-article-19-seo-checklist-bloggers.md",
+      "file": "000-product-article-25-linkedin-content-calendar.md",
       "score": 2,
-      "matchedOn": "seo, blog"
+      "matchedOn": "content"
     },
     {
       "file": "product-article-22-solopreneur-productivity-system.md",
@@ -121,7 +121,7 @@
       "matchedOn": ""
     }
   ],
-  "topMatch": "product-article-25-linkedin-content-calendar.md",
+  "topMatch": "product-article-19-seo-checklist-bloggers.md",
   "topMatchScore": 2,
-  "topMatchKeywords": "content"
+  "topMatchKeywords": "seo, blog"
 }
