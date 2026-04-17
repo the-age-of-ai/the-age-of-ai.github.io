@@ -2367,3 +2367,42 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 58 ms
 [Thu Apr 16 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 6719547] content: nightly build 2026-04-16
+ 27 files changed, 208 insertions(+), 24 deletions(-)
+ create mode 100644 content/posts/2026-04-16-affordable-ai-crm-alternatives-2026.md
+ create mode 100644 public/posts/2026-04-16-affordable-ai-crm-alternatives-2026/index.html
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   d03ed65..6719547  master -> master
+[Thu Apr 16 02:30:03 AM EDT 2026] Deploy complete.
+[Fri Apr 17 02:00:01 AM EDT 2026] === Starting generation run ===
+[Fri Apr 17 02:00:01 AM EDT 2026] Keyword: best AI scheduling tool for small business
+[Fri Apr 17 02:00:01 AM EDT 2026] Generating title...
+[Fri Apr 17 02:00:15 AM EDT 2026] Title: Best AI Scheduling Tools for Small Business in 2026
+[Fri Apr 17 02:00:15 AM EDT 2026] Generating meta description...
+[Fri Apr 17 02:00:25 AM EDT 2026] Meta: "Maximize efficiency and customer satisfaction with AI-powered scheduling tools tailored for small businesses. Discover the best AI scheduling tool for you
+[Fri Apr 17 02:00:25 AM EDT 2026] Generating article body...
+[Fri Apr 17 02:03:11 AM EDT 2026] Generating tags...
+[Fri Apr 17 02:03:17 AM EDT 2026] Saved: ./content/posts/2026-04-17-best-ai-scheduling-tool-for-small-business.md
+[Fri Apr 17 02:03:17 AM EDT 2026] === Run complete ===
+[Fri Apr 17 02:30:01 AM EDT 2026] Checking product article queue...
+[Fri Apr 17 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Fri Apr 17 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Fri Apr 17 02:30:01 AM EDT 2026] Day 2 — random skip. Next chance tomorrow.
+[Fri Apr 17 02:30:01 AM EDT 2026] Day 2 — random skip. Next chance tomorrow.
+[Fri Apr 17 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 132  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 65 ms
+[Fri Apr 17 02:30:02 AM EDT 2026] Pushing to GitHub...
