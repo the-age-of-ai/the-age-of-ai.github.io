@@ -1,6 +1,6 @@
 ---
 title: "How to Write Better Etsy Product Descriptions with AI Prompts"
-date: 2026-03-26
+date: 2026-04-20
 draft: false
 description: "Struggling with Etsy product descriptions? Learn how AI prompts can help you write faster and sell more, plus get 50 ready-to-use prompts."
 categories: ["AI Tools", "Digital Products"]

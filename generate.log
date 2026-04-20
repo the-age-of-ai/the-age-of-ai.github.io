@@ -2552,3 +2552,55 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 65 ms
 [Sun Apr 19 02:30:02 AM EDT 2026] Pushing to GitHub...
+[master 00379bc] content: nightly build 2026-04-19
+ 27 files changed, 207 insertions(+), 23 deletions(-)
+ create mode 100644 content/posts/2026-04-19-ai-social-media-manager-for-small-business.md
+ create mode 100644 public/posts/2026-04-19-ai-social-media-manager-for-small-business/index.html
+ create mode 100644 public/tags/marketing-management/index.html
+ create mode 100644 public/tags/marketing-management/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   72a61ae..00379bc  master -> master
+[Sun Apr 19 02:30:03 AM EDT 2026] Deploy complete.
+[Mon Apr 20 02:00:01 AM EDT 2026] === Starting generation run ===
+[Mon Apr 20 02:00:01 AM EDT 2026] Keyword: AI proposal generator for freelancers
+[Mon Apr 20 02:00:01 AM EDT 2026] Generating title...
+[Mon Apr 20 02:00:13 AM EDT 2026] Title: AI Proposal Generator for Freelancers 2026
+[Mon Apr 20 02:00:13 AM EDT 2026] Generating meta description...
+[Mon Apr 20 02:00:21 AM EDT 2026] Meta: Unlock tailored proposals in minutes with an AI proposal generator for freelancers. Boost productivity and win more clients with personalized pitches. Find
+[Mon Apr 20 02:00:21 AM EDT 2026] Generating article body...
+[Mon Apr 20 02:03:27 AM EDT 2026] Generating tags...
+[Mon Apr 20 02:03:33 AM EDT 2026] Saved: ./content/posts/2026-04-20-ai-proposal-generator-for-freelancers.md
+[Mon Apr 20 02:03:33 AM EDT 2026] === Run complete ===
+[Mon Apr 20 02:30:01 AM EDT 2026] Checking product article queue...
+[Mon Apr 20 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Mon Apr 20 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Mon Apr 20 02:30:01 AM EDT 2026] Publishing: product-article-11-ai-prompts-etsy-sellers.md
+[Mon Apr 20 02:30:01 AM EDT 2026] Publishing: product-article-11-ai-prompts-etsy-sellers.md
+[Mon Apr 20 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-20-ai-prompts-etsy-sellers.md
+[Mon Apr 20 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-20-ai-prompts-etsy-sellers.md
+State updated
+[Mon Apr 20 02:30:01 AM EDT 2026] Queue: 20 articles remaining
+[Mon Apr 20 02:30:01 AM EDT 2026] Queue: 20 articles remaining
+[Mon Apr 20 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-20-ai-prompts-etsy-sellers.md
+[Mon Apr 20 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-20-ai-prompts-etsy-sellers.md
+[Mon Apr 20 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-04-20-ai-prompts-etsy-sellers/
+[Mon Apr 20 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-04-20-ai-prompts-etsy-sellers/
+[Mon Apr 20 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Mon Apr 20 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Mon Apr 20 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 159  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 86 ms
+[Mon Apr 20 02:30:02 AM EDT 2026] Pushing to GitHub...
