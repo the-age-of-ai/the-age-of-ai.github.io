@@ -2604,3 +2604,103 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 86 ms
 [Mon Apr 20 02:30:02 AM EDT 2026] Pushing to GitHub...
+[master 866a91e] content: nightly build 2026-04-20
+ 43 files changed, 256 insertions(+), 30 deletions(-)
+ create mode 100644 content/posts/2026-04-20-ai-prompts-etsy-sellers.md
+ create mode 100644 content/posts/2026-04-20-ai-proposal-generator-for-freelancers.md
+ rename product-articles/{ => published}/product-article-11-ai-prompts-etsy-sellers.md (99%)
+ create mode 100644 public/posts/2026-04-20-ai-prompts-etsy-sellers/index.html
+ create mode 100644 public/posts/2026-04-20-ai-proposal-generator-for-freelancers/index.html
+ create mode 100644 public/tags/business-automation/index.html
+ create mode 100644 public/tags/business-automation/index.xml
+ create mode 100644 public/tags/e-commerce/index.html
+ create mode 100644 public/tags/e-commerce/index.xml
+ create mode 100644 public/tags/entrepreneur-solutions/index.html
+ create mode 100644 public/tags/entrepreneur-solutions/index.xml
+ create mode 100644 public/tags/etsy-sellers/index.html
+ create mode 100644 public/tags/etsy-sellers/index.xml
+ create mode 100644 public/tags/freelance-productivity/index.html
+ create mode 100644 public/tags/freelance-productivity/index.xml
+ create mode 100644 public/tags/product-descriptions/index.html
+ create mode 100644 public/tags/product-descriptions/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   00379bc..866a91e  master -> master
+[Mon Apr 20 02:30:03 AM EDT 2026] Deploy complete.
+[2026-04-20T06:31:32.520Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-04-20T06:31:32.520Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-04-20T06:31:32.775Z] [medium] FATAL: browserType.launch: Failed to launch the browser process.
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+Call log:
+  - <launching> /home/charlie/.cache/ms-playwright/firefox-1511/firefox/firefox -no-remote -wait-for-browser -foreground -profile /tmp/playwright_firefoxdev_profile-7BkPKG -juggler-pipe -silent
+  - <launched> pid=3775352
+  - [pid=3775352][err] [3775354] Sandbox: CanCreateUserNamespace() unshare(CLONE_NEWPID): EPERM
+  - [pid=3775352][err] Error: no DISPLAY environment variable specified
+  - [pid=3775352] <process did exit: exitCode=1, signal=null>
+  - [pid=3775352] starting temporary directories cleanup
+  - [pid=3775352] <gracefully close start>
+  - [pid=3775352] <kill>
+  - [pid=3775352] <skipped force kill spawnedProcess.killed=false processClosed=true>
+  - [pid=3775352] finished temporary directories cleanup
+  - [pid=3775352] <gracefully close end>
+
+[2026-04-20T06:31:32.775Z] [medium] FATAL: browserType.launch: Failed to launch the browser process.
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+Call log:
+  - <launching> /home/charlie/.cache/ms-playwright/firefox-1511/firefox/firefox -no-remote -wait-for-browser -foreground -profile /tmp/playwright_firefoxdev_profile-7BkPKG -juggler-pipe -silent
+  - <launched> pid=3775352
+  - [pid=3775352][err] [3775354] Sandbox: CanCreateUserNamespace() unshare(CLONE_NEWPID): EPERM
+  - [pid=3775352][err] Error: no DISPLAY environment variable specified
+  - [pid=3775352] <process did exit: exitCode=1, signal=null>
+  - [pid=3775352] starting temporary directories cleanup
+  - [pid=3775352] <gracefully close start>
+  - [pid=3775352] <kill>
+  - [pid=3775352] <skipped force kill spawnedProcess.killed=false processClosed=true>
+  - [pid=3775352] finished temporary directories cleanup
+  - [pid=3775352] <gracefully close end>
+
+[Tue Apr 21 02:00:01 AM EDT 2026] === Starting generation run ===
+[Tue Apr 21 02:00:01 AM EDT 2026] Keyword: AI time tracking software small business
+[Tue Apr 21 02:00:01 AM EDT 2026] Generating title...
+[Tue Apr 21 02:00:16 AM EDT 2026] Title: AI Time Tracking Software for Small Business 2026
+[Tue Apr 21 02:00:16 AM EDT 2026] Generating meta description...
+[Tue Apr 21 02:00:24 AM EDT 2026] Meta: "Streamline your operations and boost productivity with AI-powered time tracking software designed specifically for small businesses. Find the right fit."
+[Tue Apr 21 02:00:24 AM EDT 2026] Generating article body...
+[Tue Apr 21 02:03:07 AM EDT 2026] Generating tags...
+[Tue Apr 21 02:03:12 AM EDT 2026] Saved: ./content/posts/2026-04-21-ai-time-tracking-software-small-business.md
+[Tue Apr 21 02:03:12 AM EDT 2026] === Run complete ===
+[Tue Apr 21 02:30:01 AM EDT 2026] Checking product article queue...
+[Tue Apr 21 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Tue Apr 21 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Tue Apr 21 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Tue Apr 21 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Tue Apr 21 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 160  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 74 ms
+[Tue Apr 21 02:30:02 AM EDT 2026] Pushing to GitHub...
