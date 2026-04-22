@@ -1,6 +1,6 @@
 ---
 title: "How to Protect Your Solopreneur Business Without Hiring a Lawyer"
-date: 2026-03-26
+date: 2026-04-22
 draft: false
 description: "Learn how to safeguard your solopreneur business with practical legal tips and tools—no expensive lawyer needed."
 categories: ["AI Tools", "Digital Products"]
