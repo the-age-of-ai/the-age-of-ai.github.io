@@ -4364,3 +4364,43 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 65 ms
 [Sat May  2 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 1cd5711] content: nightly build 2026-05-02
+ 1 file changed, 86 insertions(+)
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   ecdd3c6..1cd5711  master -> master
+[Sat May  2 02:30:02 AM EDT 2026] Deploy complete.
+[Sun May  3 02:00:01 AM EDT 2026] === Starting generation run ===
+[Sun May  3 02:00:01 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Sun May  3 02:30:01 AM EDT 2026] Checking product article queue...
+[Sun May  3 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Sun May  3 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Sun May  3 02:30:01 AM EDT 2026] Publishing: product-article-01-chatgpt-prompts-small-business.md
+[Sun May  3 02:30:01 AM EDT 2026] Publishing: product-article-01-chatgpt-prompts-small-business.md
+[Sun May  3 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-03-chatgpt-prompts-small-business.md
+[Sun May  3 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-03-chatgpt-prompts-small-business.md
+State updated
+[Sun May  3 02:30:01 AM EDT 2026] Queue: 14 articles remaining
+[Sun May  3 02:30:01 AM EDT 2026] Queue: 14 articles remaining
+[Sun May  3 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-03-chatgpt-prompts-small-business.md
+[Sun May  3 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-03-chatgpt-prompts-small-business.md
+[Sun May  3 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-03-chatgpt-prompts-small-business/
+[Sun May  3 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-03-chatgpt-prompts-small-business/
+[Sun May  3 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Sun May  3 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Sun May  3 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 235  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 64 ms
+[Sun May  3 02:30:01 AM EDT 2026] Pushing to GitHub...

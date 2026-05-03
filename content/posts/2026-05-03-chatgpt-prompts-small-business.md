@@ -1,6 +1,6 @@
 ---
 title: "How to Use ChatGPT for Small Business Growth: 50 Prompts to Start"
-date: 2026-03-26
+date: 2026-05-03
 draft: false
 description: "Struggling with small business tasks? Learn how to use ChatGPT with 50 practical prompts for growth and efficiency."
 categories: ["AI Tools", "Digital Products"]
