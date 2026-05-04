@@ -4404,3 +4404,43 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 64 ms
 [Sun May  3 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 54a9245] content: nightly build 2026-05-03
+ 28 files changed, 126 insertions(+), 24 deletions(-)
+ create mode 100755 content/posts/2026-05-03-chatgpt-prompts-small-business.md
+ rename product-articles/{ => published}/product-article-01-chatgpt-prompts-small-business.md (98%)
+ create mode 100644 public/posts/2026-05-03-chatgpt-prompts-small-business/index.html
+ create mode 100644 public/tags/ai-productivity/index.html
+ create mode 100644 public/tags/ai-productivity/index.xml
+ create mode 100644 public/tags/chatgpt-prompts/index.html
+ create mode 100644 public/tags/chatgpt-prompts/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   1cd5711..54a9245  master -> master
+[Sun May  3 02:30:02 AM EDT 2026] Deploy complete.
+[2026-05-03T06:31:31.779Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-05-03T06:31:31.779Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-05-03T06:31:31.791Z] [medium] FATAL: browserType.launch: ENOENT: no such file or directory, stat '/home/charlie/.cache/ms-playwright/firefox-1511/firefox/lock'
+[2026-05-03T06:31:31.791Z] [medium] FATAL: browserType.launch: ENOENT: no such file or directory, stat '/home/charlie/.cache/ms-playwright/firefox-1511/firefox/lock'
+[Mon May  4 02:00:01 AM EDT 2026] === Starting generation run ===
+[Mon May  4 02:00:01 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Mon May  4 02:30:01 AM EDT 2026] Checking product article queue...
+[Mon May  4 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Mon May  4 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Mon May  4 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Mon May  4 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Mon May  4 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 235  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 97 ms
+[Mon May  4 02:30:02 AM EDT 2026] Pushing to GitHub...
