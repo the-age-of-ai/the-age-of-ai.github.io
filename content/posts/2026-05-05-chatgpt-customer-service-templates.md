@@ -1,6 +1,6 @@
 ---
 title: "How to Automate Customer Service Emails with AI Templates"
-date: 2026-03-26
+date: 2026-05-05
 draft: false
 description: "Learn how to automate customer service emails with AI. Save time using ChatGPT templates for solopreneurs and small businesses."
 categories: ["AI Tools", "Digital Products"]
