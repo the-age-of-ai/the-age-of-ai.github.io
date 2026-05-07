@@ -1,6 +1,6 @@
 ---
 title: "How to Launch a Digital Product Without Missing a Step: A Solopreneur’s Guide"
-date: 2026-03-26
+date: 2026-05-07
 draft: false
 description: "Struggling to launch your digital product? Learn key steps and avoid common mistakes with this practical guide for solopreneurs."
 categories: ["AI Tools", "Digital Products"]
