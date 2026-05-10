@@ -1,6 +1,6 @@
 ---
 title: "How to Start a Podcast as a Solopreneur with No Tech Skills"
-date: 2026-03-26
+date: 2026-05-10
 draft: false
 description: "Learn how solopreneurs can start a podcast with no tech skills using simple tools and actionable steps."
 categories: ["AI Tools", "Digital Products"]
