@@ -4719,3 +4719,43 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 72 ms
 [Mon May 11 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 9026af7] content: nightly build 2026-05-11
+ 1 file changed, 44 insertions(+)
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   4ce9bb2..9026af7  master -> master
+[Mon May 11 02:30:03 AM EDT 2026] Deploy complete.
+[Tue May 12 02:00:01 AM EDT 2026] === Starting generation run ===
+[Tue May 12 02:00:01 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Tue May 12 02:30:01 AM EDT 2026] Checking product article queue...
+[Tue May 12 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Tue May 12 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Tue May 12 02:30:01 AM EDT 2026] Publishing: product-article-12-cold-outreach-playbook.md
+[Tue May 12 02:30:01 AM EDT 2026] Publishing: product-article-12-cold-outreach-playbook.md
+[Tue May 12 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-12-cold-outreach-playbook.md
+[Tue May 12 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-12-cold-outreach-playbook.md
+State updated
+[Tue May 12 02:30:01 AM EDT 2026] Queue: 10 articles remaining
+[Tue May 12 02:30:01 AM EDT 2026] Queue: 10 articles remaining
+[Tue May 12 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-12-cold-outreach-playbook.md
+[Tue May 12 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-12-cold-outreach-playbook.md
+[Tue May 12 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-12-cold-outreach-playbook/
+[Tue May 12 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-12-cold-outreach-playbook/
+[Tue May 12 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Tue May 12 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Tue May 12 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 263  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 79 ms
+[Tue May 12 02:30:02 AM EDT 2026] Pushing to GitHub...

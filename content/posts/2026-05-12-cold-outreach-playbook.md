@@ -1,6 +1,6 @@
 ---
 title: "How to Write Cold Emails That Get Responses as a Solopreneur"
-date: 2026-03-26
+date: 2026-05-12
 draft: false
 description: "Struggling to get responses from cold emails? Learn practical tips to craft messages that work for solopreneurs and small businesses."
 categories: ["AI Tools", "Digital Products"]
