@@ -1,6 +1,6 @@
 ---
 title: "How to Write Email Newsletters Faster for Solopreneurs"
-date: 2026-03-26
+date: 2026-05-15
 draft: false
 description: "Struggling to write email newsletters as a solopreneur? Learn fast tips and get templates to save time and grow your audience."
 categories: ["AI Tools", "Digital Products"]
