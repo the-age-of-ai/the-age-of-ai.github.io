@@ -1,6 +1,6 @@
 ---
 title: "How to Set Freelancer Rates Without Undervaluing Yourself"
-date: 2026-03-26
+date: 2026-05-17
 draft: false
 description: "Struggling to set freelancer rates? Learn how to price your services confidently and create winning proposals with practical tips."
 categories: ["AI Tools", "Digital Products"]
