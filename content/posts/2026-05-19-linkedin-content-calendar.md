@@ -1,6 +1,6 @@
 ---
 title: "How to Create a LinkedIn Content Strategy That Gets Results as a Solopreneur"
-date: 2026-03-26
+date: 2026-05-19
 draft: false
 description: "Struggling with LinkedIn content? Learn how to build a strategy that works for solopreneurs and save time with proven ideas."
 categories: ["AI Tools", "Digital Products"]
