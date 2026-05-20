@@ -5032,3 +5032,45 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 101 ms
 [Tue May 19 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 96c22fe] content: nightly build 2026-05-19
+ 28 files changed, 138 insertions(+), 22 deletions(-)
+ create mode 100755 content/posts/2026-05-19-linkedin-content-calendar.md
+ rename product-articles/{ => published}/product-article-25-linkedin-content-calendar.md (99%)
+ create mode 100644 public/posts/2026-05-19-linkedin-content-calendar/index.html
+ create mode 100644 public/tags/content-planning/index.html
+ create mode 100644 public/tags/content-planning/index.xml
+ create mode 100644 public/tags/linkedin-strategy/index.html
+ create mode 100644 public/tags/linkedin-strategy/index.xml
+ create mode 100644 public/tags/social-media/index.html
+ create mode 100644 public/tags/social-media/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   e7a8cad..96c22fe  master -> master
+[Tue May 19 02:30:03 AM EDT 2026] Deploy complete.
+[2026-05-19T06:31:31.700Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-05-19T06:31:31.700Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-05-19T06:31:31.714Z] [medium] FATAL: browserType.launch: ENOENT: no such file or directory, stat '/home/charlie/.cache/ms-playwright/firefox-1511/firefox/lock'
+[2026-05-19T06:31:31.714Z] [medium] FATAL: browserType.launch: ENOENT: no such file or directory, stat '/home/charlie/.cache/ms-playwright/firefox-1511/firefox/lock'
+[Wed May 20 02:00:01 AM EDT 2026] === Starting generation run ===
+[Wed May 20 02:00:01 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Wed May 20 02:30:01 AM EDT 2026] Checking product article queue...
+[Wed May 20 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Wed May 20 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Wed May 20 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Wed May 20 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Wed May 20 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 282  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 107 ms
+[Wed May 20 02:30:01 AM EDT 2026] Pushing to GitHub...
