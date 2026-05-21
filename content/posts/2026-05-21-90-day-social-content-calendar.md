@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Social Media Content Plan for Solopreneurs in 2026"
-date: 2026-03-26
+date: 2026-05-21
 draft: false
 description: "Struggling with social media content as a solopreneur? Learn how to build a plan and save time with practical tips for 2026."
 categories: ["AI Tools", "Digital Products"]
