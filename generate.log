@@ -5150,3 +5150,43 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 99 ms
 [Fri May 22 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master f238694] content: nightly build 2026-05-22
+ 1 file changed, 36 insertions(+)
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   23155ea..f238694  master -> master
+[Fri May 22 02:30:04 AM EDT 2026] Deploy complete.
+[Sat May 23 02:00:01 AM EDT 2026] === Starting generation run ===
+[Sat May 23 02:00:01 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Sat May 23 02:30:01 AM EDT 2026] Checking product article queue...
+[Sat May 23 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Sat May 23 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Sat May 23 02:30:02 AM EDT 2026] Publishing: product-article-15-ai-tools-real-estate-agents.md
+[Sat May 23 02:30:02 AM EDT 2026] Publishing: product-article-15-ai-tools-real-estate-agents.md
+[Sat May 23 02:30:02 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-23-ai-tools-real-estate-agents.md
+[Sat May 23 02:30:02 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-23-ai-tools-real-estate-agents.md
+State updated
+[Sat May 23 02:30:02 AM EDT 2026] Queue: 5 articles remaining
+[Sat May 23 02:30:02 AM EDT 2026] Queue: 5 articles remaining
+[Sat May 23 02:30:02 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-23-ai-tools-real-estate-agents.md
+[Sat May 23 02:30:02 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-23-ai-tools-real-estate-agents.md
+[Sat May 23 02:30:02 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-23-ai-tools-real-estate-agents/
+[Sat May 23 02:30:02 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-23-ai-tools-real-estate-agents/
+[Sat May 23 02:30:02 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Sat May 23 02:30:02 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Sat May 23 02:30:02 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 290  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 196 ms
+[Sat May 23 02:30:02 AM EDT 2026] Pushing to GitHub...

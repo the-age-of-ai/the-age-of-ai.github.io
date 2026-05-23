@@ -1,6 +1,6 @@
 ---
 title: "Best AI Tools for Real Estate Agents to Close More Deals in 2026"
-date: 2026-03-26
+date: 2026-05-23
 draft: false
 description: "Discover the best AI tools for real estate agents to automate tasks, generate leads, and close more deals faster in 2026."
 categories: ["AI Tools", "Digital Products"]
