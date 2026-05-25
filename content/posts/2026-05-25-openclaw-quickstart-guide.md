@@ -1,6 +1,6 @@
 ---
 title: "How to Automate Repetitive Tasks with OpenClaw AI for Solopreneurs"
-date: 2026-03-26
+date: 2026-05-25
 draft: false
 description: "Learn how solopreneurs can automate repetitive tasks with OpenClaw AI. Get practical tips and a guide to save time and boost productivity."
 categories: ["AI Tools", "Digital Products"]
