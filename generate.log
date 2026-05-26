@@ -5272,3 +5272,43 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 109 ms
 [Mon May 25 02:30:02 AM EDT 2026] Pushing to GitHub...
+[master 3c550c3] content: nightly build 2026-05-25
+ 28 files changed, 129 insertions(+), 26 deletions(-)
+ create mode 100755 content/posts/2026-05-25-openclaw-quickstart-guide.md
+ rename product-articles/{ => published}/product-article-06-openclaw-quickstart-guide.md (98%)
+ create mode 100644 public/posts/2026-05-25-openclaw-quickstart-guide/index.html
+ create mode 100644 public/tags/openclaw/index.html
+ create mode 100644 public/tags/openclaw/index.xml
+ create mode 100644 public/tags/task-automation/index.html
+ create mode 100644 public/tags/task-automation/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   e15842f..3c550c3  master -> master
+[Mon May 25 02:30:04 AM EDT 2026] Deploy complete.
+[2026-05-25T06:31:32.351Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-05-25T06:31:32.351Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-05-25T06:31:32.364Z] [medium] FATAL: browserType.launch: ENOENT: no such file or directory, stat '/home/charlie/.cache/ms-playwright/firefox-1511/firefox/lock'
+[2026-05-25T06:31:32.364Z] [medium] FATAL: browserType.launch: ENOENT: no such file or directory, stat '/home/charlie/.cache/ms-playwright/firefox-1511/firefox/lock'
+[Tue May 26 02:00:01 AM EDT 2026] === Starting generation run ===
+[Tue May 26 02:00:01 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Tue May 26 02:30:01 AM EDT 2026] Checking product article queue...
+[Tue May 26 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Tue May 26 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Tue May 26 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Tue May 26 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Tue May 26 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 295  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 66 ms
+[Tue May 26 02:30:01 AM EDT 2026] Pushing to GitHub...
