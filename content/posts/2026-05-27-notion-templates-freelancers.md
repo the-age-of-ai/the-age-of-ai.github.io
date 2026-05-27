@@ -1,6 +1,6 @@
 ---
 title: "How to Organize Freelance Projects Without Losing Your Mind"
-date: 2026-03-26
+date: 2026-05-27
 draft: false
 description: "Struggling to manage freelance projects? Learn practical tips to stay organized and get a Notion template to simplify everything."
 categories: ["AI Tools", "Digital Products"]
