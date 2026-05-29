@@ -5392,3 +5392,43 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 77 ms
 [Thu May 28 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 1761068] content: nightly build 2026-05-28
+ 1 file changed, 40 insertions(+)
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   a071724..1761068  master -> master
+[Thu May 28 02:30:03 AM EDT 2026] Deploy complete.
+[Fri May 29 02:00:01 AM EDT 2026] === Starting generation run ===
+[Fri May 29 02:00:01 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Fri May 29 02:30:01 AM EDT 2026] Checking product article queue...
+[Fri May 29 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Fri May 29 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Fri May 29 02:30:01 AM EDT 2026] Publishing: product-article-21-client-onboarding-kit.md
+[Fri May 29 02:30:01 AM EDT 2026] Publishing: product-article-21-client-onboarding-kit.md
+[Fri May 29 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-29-client-onboarding-kit.md
+[Fri May 29 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-29-client-onboarding-kit.md
+State updated
+[Fri May 29 02:30:01 AM EDT 2026] Queue: 2 articles remaining
+[Fri May 29 02:30:01 AM EDT 2026] Queue: 2 articles remaining
+[Fri May 29 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-29-client-onboarding-kit.md
+[Fri May 29 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-29-client-onboarding-kit.md
+[Fri May 29 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-29-client-onboarding-kit/
+[Fri May 29 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-29-client-onboarding-kit/
+[Fri May 29 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Fri May 29 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Fri May 29 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 305  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 112 ms
+[Fri May 29 02:30:02 AM EDT 2026] Pushing to GitHub...

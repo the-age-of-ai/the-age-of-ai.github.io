@@ -1,6 +1,6 @@
 ---
 title: "How to Onboard Clients Faster as a Solopreneur Without Losing Your Mind"
-date: 2026-03-26
+date: 2026-05-29
 draft: false
 description: "Struggling to onboard clients efficiently? Learn practical steps to streamline the process and save time as a solopreneur."
 categories: ["AI Tools", "Digital Products"]
