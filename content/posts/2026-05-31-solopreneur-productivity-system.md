@@ -1,6 +1,6 @@
 ---
 title: "How to Automate Your Solopreneur Workflow with AI Tools"
-date: 2026-03-26
+date: 2026-05-31
 draft: false
 description: "Learn how to automate your solopreneur workflow with AI tools to save time and boost productivity. Practical tips inside."
 categories: ["AI Tools", "Digital Products"]

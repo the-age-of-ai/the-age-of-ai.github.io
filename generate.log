@@ -5472,3 +5472,43 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 539244 ms
 [Sat May 30 02:39:09 AM EDT 2026] Pushing to GitHub...
+[master 6da819b] content: nightly build 2026-05-30
+ 1 file changed, 40 insertions(+)
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   3c8ed53..6da819b  master -> master
+[Sat May 30 02:39:13 AM EDT 2026] Deploy complete.
+[Sun May 31 02:00:01 AM EDT 2026] === Starting generation run ===
+[Sun May 31 02:00:02 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Sun May 31 02:30:01 AM EDT 2026] Checking product article queue...
+[Sun May 31 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Sun May 31 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Sun May 31 02:30:01 AM EDT 2026] Publishing: product-article-22-solopreneur-productivity-system.md
+[Sun May 31 02:30:01 AM EDT 2026] Publishing: product-article-22-solopreneur-productivity-system.md
+[Sun May 31 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-31-solopreneur-productivity-system.md
+[Sun May 31 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-31-solopreneur-productivity-system.md
+State updated
+[Sun May 31 02:30:01 AM EDT 2026] Queue: 1 articles remaining
+[Sun May 31 02:30:01 AM EDT 2026] Queue: 1 articles remaining
+[Sun May 31 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-31-solopreneur-productivity-system.md
+[Sun May 31 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-05-31-solopreneur-productivity-system.md
+[Sun May 31 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-31-solopreneur-productivity-system/
+[Sun May 31 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-05-31-solopreneur-productivity-system/
+[Sun May 31 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Sun May 31 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Sun May 31 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 308  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 134 ms
+[Sun May 31 02:30:02 AM EDT 2026] Pushing to GitHub...
