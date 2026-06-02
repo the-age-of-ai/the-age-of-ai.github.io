@@ -1,6 +1,6 @@
 ---
 title: "How to Write Cold Emails That Get Replies with AI Templates"
-date: 2026-03-26
+date: 2026-06-02
 draft: false
 description: "Struggling with cold emails? Learn how to write emails that get replies using AI templates and proven strategies for solopreneurs."
 categories: ["AI Tools", "Digital Products"]
