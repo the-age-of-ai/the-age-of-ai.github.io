@@ -5590,3 +5590,39 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 113 ms
 [Tue Jun  2 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master a0367e6] content: nightly build 2026-06-02
+ 28 files changed, 137 insertions(+), 28 deletions(-)
+ create mode 100755 content/posts/2026-06-02-email-templates-ai-business.md
+ rename product-articles/{ => published}/product-article-02-email-templates-ai-business.md (98%)
+ create mode 100644 public/posts/2026-06-02-email-templates-ai-business/index.html
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   34c3078..a0367e6  master -> master
+[Tue Jun  2 02:30:04 AM EDT 2026] Deploy complete.
+[2026-06-02T06:31:31.949Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-06-02T06:31:31.949Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-06-02T06:31:31.963Z] [medium] FATAL: browserType.launch: ENOENT: no such file or directory, stat '/home/charlie/.cache/ms-playwright/firefox-1511/firefox/lock'
+[2026-06-02T06:31:31.963Z] [medium] FATAL: browserType.launch: ENOENT: no such file or directory, stat '/home/charlie/.cache/ms-playwright/firefox-1511/firefox/lock'
+[Wed Jun  3 02:00:01 AM EDT 2026] === Starting generation run ===
+[Wed Jun  3 02:00:01 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Wed Jun  3 02:30:01 AM EDT 2026] Checking product article queue...
+[Wed Jun  3 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Wed Jun  3 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Wed Jun  3 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Wed Jun  3 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Wed Jun  3 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 309  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 110 ms
+[Wed Jun  3 02:30:01 AM EDT 2026] Pushing to GitHub...
